@@ -8,5 +8,5 @@
  ![This is 2017](2017stocks.png) ![This is 2018](stock2018.png)
  
  ### Execution Time
- When we ran the code for the 12 stocks in 2017 and 2018 the first time the speed were pretty close to each other. They staedy that way after multi times running the code. The one thing we realized is the more times you run it the faster it gets. 
+ When we ran the code for the 12 stocks in 2017 and 2018 the first time the speed were pretty close to each other. They staedy that way after multi times running the code. ![Code Times]The one thing we realized is the more times you run it the faster it gets. we our only talking about hundered of seconds. Now when we did the same thing for the whole stock market the time only slowed down by hunderedsth with alot more imputs. ![code times](resources/VBA_Challenge_2018.png)
 
