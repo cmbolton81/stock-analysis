@@ -13,4 +13,8 @@
 ## Summary
 
 ### Advantages and Disadvantages
-   When you are looking at refactoring code there is a lot of simialrities between that and the original VBA script. The big advantage of refactoring is the time it takes to go thourgh alot of data. You are able to write code to make it quick to see trends and dips when you are seeing a bigger sample. The big disadvantage that we found is that the code for the origanal is alot easier and smoother to get to work. When you are working with alot more data you are more likely to have to write and rewrite code. The thing that we kept running into was overflow error. ![overflow](
+   When you are looking at refactoring code there is a lot of simialrities between that and the original VBA script. The big advantage of refactoring is the time it takes to go thourgh alot of data. You are able to write code to make it quick to see trends and dips when you are seeing a bigger sample. The big disadvantage that we found is that the code for the origanal is alot easier and smoother to get to work. When you are working with alot more data you are more likely to have to write and rewrite code. The thing that we kept running into was overflow error. What it comes down to is what are you trying to do!
+   ![overflow](overflow.png)
+   
+### Advantages and Disadvantages and How they apply
+   Like we were saying we think it matters on what you want. If you have already narrowed your choice down the disadvantages to refactoring play a big part. It is better to use the original. If you are just starting or trying to find a trend or flows in a big data set. It is alot better to work thourgh the bugs and error to get more info. That way you have all the info to make the best decision. In the end it is all what you are trying to get out of the analysis.
